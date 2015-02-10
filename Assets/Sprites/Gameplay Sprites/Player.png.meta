@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 716d51ba86beb4a08915a7e30a69915a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerAnimation1
+    21300002: PlayerAnimation2
+    21300004: PlayerAnimation3
+    21300006: PlayerAnimation4
+    21300008: PlayerAnimation5
+    21300010: PlayerAnimation6
+    21300012: PlayerAnimation7
+    21300014: PlayerAnimationIdle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: PlayerAnimation1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 70
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 148
+        width: 80
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimation7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerAnimationIdle
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1
+        width: 88
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
